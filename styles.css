@@ -2,3 +2,13 @@ body {
     box-sizing: border-box;
     margin: 20px;
 }
+
+.para {
+    color: blue;
+    font-size: 30px;
+}
+
+.class2 {
+    border: 3px solid black;
+    border-radius: 30px;
+}
